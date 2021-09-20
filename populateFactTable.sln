@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "populateFactTable", "populateFactTable.dtproj", "{8295A698-212B-4EF5-AE8F-B4BBB9C33CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8295A698-212B-4EF5-AE8F-B4BBB9C33CBB}.Development|Default.ActiveCfg = Development
+		{8295A698-212B-4EF5-AE8F-B4BBB9C33CBB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E535E3-3864-48C1-AF0A-C15C988F22D0}
+	EndGlobalSection
+EndGlobal
